@@ -17,7 +17,9 @@ To help with this, in this repo there is
 There is not enough info here to answer all the above questiohs. You will most likely need to 
 * use Google, ChatGPT, Claude (or read a book)
 * ask the people you talk to during the week. This is somewhat quantile-centric, but everybody you talk to should be able to help
-* compare notes and otherwise help eachother. This is not a competion.   
+* compare notes and otherwise help eachother. This is not a competition.
+
+There is no requirement to write any code but you may find it useful. There are some python resources in this repo, but you can use any language you like (except java).  It is equally possible to perform most of the investigation using excel or google sheets. You can also do it with pencial and paper if you prefer. Or you can reserach the topics using various sources on the internet to get a qualitative understanding. 
 
 
 ## financial background
