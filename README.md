@@ -5,6 +5,7 @@ over the week we will investigate *initial margin* for a *bilteral  OTC derivati
 * why do banks care about it ?
 * how do banks calculate how much initial margin to pay ? 
 * how true are the underlying mathematical assumptions of models of initial margin ?
+* **hard** how would a bank minimise the initial margin that they have to post - if you get this far, you may be interested working at Quantile
 
 
 To help with this, in this repo there is 
